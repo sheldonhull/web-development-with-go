@@ -15,7 +15,7 @@ RUN if [ "${INSTALL_DOCKER}" = "true" ]; then \
     && rm -rf /var/lib/apt/lists/* /tmp/library-scripts/
 
 USER codespace
-RUN curl -sfL https://git.io/chezmoi | sh
+RUN curl -sfL https://git.io/chezmoi | sudo sh
 
 # ** [Optional] Uncomment this section to install additional packages. **
 # RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \

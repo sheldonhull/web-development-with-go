@@ -34,4 +34,12 @@ This means the basic codespace (cloud or container workspace) should have dotnet
 
 ## Course Log
 
-### 2020-09-26
+<details closed>
+<summary>2020-09-26</summary>
+
+I agree with the following sentiment about fumpt. :grin:
+
+> "It's technically "fmt" (`fump-pt`) but I just hate that pronounciation so you probably won't hear from me as much."
+Jon Calhoun
+
+</details>
