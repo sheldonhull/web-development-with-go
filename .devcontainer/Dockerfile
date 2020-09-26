@@ -16,7 +16,6 @@ RUN if [ "${INSTALL_DOCKER}" = "true" ]; then \
 
 USER codespace
 RUN curl -sfL https://git.io/chezmoi | sh
-RUN ./bin/chezmoi init --apply --verbose https://github.com/sheldonhull/chezmoi.git
 
 # ** [Optional] Uncomment this section to install additional packages. **
 # RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \

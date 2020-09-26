@@ -32,7 +32,6 @@ Creating GitHub Codespace to use for cloud-based workspace for leveraging this c
 
 This means the basic codespace (cloud or container workspace) should have dotnet, Go, python, and all other basic libraries already included.
 
-### Course Log
-
+## Course Log
 
 ### 2020-09-26
