@@ -42,4 +42,9 @@ I agree with the following sentiment about fumpt. :grin:
 > "It's technically "fmt" (`fump-pt`) but I just hate that pronounciation so you probably won't hear from me as much."
 Jon Calhoun
 
+Since I'm working in Codespaces, wasn't sure today how to open the localhost equivalent.
+To validate the web service returned a response correctly, I ran `curl localhost:3000` and it returned correctly `<h1>Welcome To the Land of Tacos</h1>`.
+Using `wget localhost:3000` downloaded the file by default which returned the same contents in a `index.html` file.
+
+That's it for today.
 </details>
